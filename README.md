@@ -16,7 +16,7 @@
 
 QA Engineer com **4+ anos** em produtos **SaaS**, **saúde (SUS e privado)** e plataformas de **alto impacto** — da estratégia de testes à automação em CI/CD.
 
-🌓 **Tema claro/escuro:** o README acompanha a aparência do GitHub (Configurações → Aparência). Acentos na paleta **AthloBR** (neon `#21F08A`, forest `#00C853`, deep `#131A22`).
+🌓 **Tema claro/escuro:** o README acompanha a aparência do GitHub (Configurações → Aparência). 
 
 <br/>
 
