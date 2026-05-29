@@ -16,7 +16,7 @@
 
 QA Engineer com **4+ anos** em produtos **SaaS**, **saúde (SUS e privado)** e plataformas de **alto impacto** — da estratégia de testes à automação em CI/CD.
 
-🌓 **Tema claro/escuro:** o README acompanha a aparência do GitHub (Configurações → Aparência). 
+🌓 **Tema claro/escuro:** o README acompanha a aparência do GitHub (Configurações → Aparência). Acentos na paleta **AthloBR** (neon `#21F08A`, forest `#00C853`, deep `#131A22`).
 
 <br/>
 
@@ -33,6 +33,7 @@ QA Engineer com **4+ anos** em produtos **SaaS**, **saúde (SUS e privado)** e p
 
 - [Sobre mim](#-sobre-mim)
 - [O que eu faço](#-o-que-eu-faço)
+- [Estratégia e execução de QA](#-estratégia-e-execução-de-qa)
 - [Métricas e competências](#-métricas-e-competências)
 - [Stack técnica](#-stack-técnica)
 - [Portfólio](#-portfólio)
@@ -63,6 +64,37 @@ Atuo em aplicações **Web**, **Mobile** e **APIs** — da análise de requisito
 | **Acessibilidade** | WCAG, testes manuais e automatizados, inclusão no design |
 | **Produto** | Revisão de AC, qualidade de entrega, documentação e mentoria em QA |
 | **IA aplicada a QA** | Orquestração de cenários, estratégia de testes e artefatos no Jira/GitLab |
+
+---
+
+## 🎯 Estratégia e execução de QA
+
+Da **análise de requisitos** à **entrega em produção** — qualidade como disciplina contínua, não como etapa final do projeto.
+
+| Fase | Atuação |
+|------|---------|
+| **Discovery & refinamento** | Revisão de histórias, critérios de aceite testáveis, identificação de riscos e lacunas antes do desenvolvimento |
+| **Planejamento** | Pirâmide de testes, matriz de risco × impacto, cobertura orientada a valor e definição de P0/P1 |
+| **Shift Left** | Participação em refinamentos, pair testing, contratos de API e validação de regras de negócio cedo |
+| **Execução** | Exploratório charter-based, regressão manual e automatizada (E2E, API, integração) |
+| **Automação & CI/CD** | Suites em pipelines, gates de qualidade, smoke pós-deploy e feedback rápido ao time |
+| **Pré-produção** | Testes de performance, acessibilidade, segurança e resiliência conforme criticidade |
+| **Produção & melhoria** | Monitoramento pós-release, análise de defeitos em prod, retrospectivas e evolução da estratégia |
+
+<details>
+<summary><b>🔁 Como aplico na prática</b></summary>
+
+<br/>
+
+- **Requisitos claros** — transformo AC vagos em cenários verificáveis e casos de borda documentados
+- **Risco primeiro** — priorizo fluxos críticos (auth, pagamento, integrações, dados sensíveis) antes de cobertura ampla
+- **Automação com propósito** — automatizo o que traz retorno: regressão frequente, APIs estáveis e smoke de deploy
+- **Evidência e rastreabilidade** — defeitos, execuções e métricas ligados a issues, releases e decisões de go/no-go
+- **Colaboração com produto e engenharia** — QA como parceiro de entrega, não apenas validador no fim do sprint
+
+</details>
+
+> Do refinamento ao deploy: **prevenir defeitos**, **acelerar feedback** e **elevar a confiança** em cada release.
 
 ---
 
