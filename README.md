@@ -1,16 +1,22 @@
 <div align="center">
 
-# 👩‍💻 Adrielly Félix Costa
+# 👩‍💻 Adrielly Costa
 
 ### Quality Assurance Engineer
 
 **Automação** · **Performance** · **Acessibilidade** · **Qualidade de Produto** · **Consultoria em QA**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Quality+Assurance+Engineer;Test+Automation+%7C+Playwright+%7C+Cypress+%7C+K6;Accessibility+%26+Performance+Testing;CI%2FCD+%7C+TestOps+%7C+Shift+Left;Product+Quality+%26+Continuous+Improvement" alt="Typing intro" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=21F08A&center=true&vCenter=true&width=900&lines=Quality+Assurance+Engineer;Test+Automation+%7C+Playwright+%7C+Cypress+%7C+K6;Accessibility+%26+Performance+Testing;CI%2FCD+%7C+TestOps+%7C+Shift+Left;Product+Quality+%26+Continuous+Improvement" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Quality+Assurance+Engineer;Test+Automation+%7C+Playwright+%7C+Cypress+%7C+K6;Accessibility+%26+Performance+Testing;CI%2FCD+%7C+TestOps+%7C+Shift+Left;Product+Quality+%26+Continuous+Improvement" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Quality+Assurance+Engineer;Test+Automation+%7C+Playwright+%7C+Cypress+%7C+K6;Accessibility+%26+Performance+Testing;CI%2FCD+%7C+TestOps+%7C+Shift+Left;Product+Quality+%26+Continuous+Improvement" alt="Typing intro" />
+</picture>
 
 <br/>
 
 QA Engineer com **4+ anos** em produtos **SaaS**, **saúde (SUS e privado)** e plataformas de **alto impacto** — da estratégia de testes à automação em CI/CD.
+
+🌓 **Tema claro/escuro:** o README acompanha a aparência do GitHub (Configurações → Aparência). Acentos na paleta **AthloBR** (neon `#21F08A`, forest `#00C853`, deep `#131A22`).
 
 <br/>
 
@@ -262,6 +268,11 @@ Contrato × faturado × repassado · glosas **TISS** · Central Financeira · co
 
 <br/>
 
+<img src="https://img.shields.io/badge/AthloBR-21F08A?style=flat-square&logoColor=131A22" alt="AthloBR"/>
+<img src="https://img.shields.io/badge/Commission_Pal-00C853?style=flat-square&logoColor=131A22" alt="Commission Pal"/>
+
+<br/><br/>
+
 Pipeline, jornada, implantação, comissões, CS, suporte SLA e timeline 360°.
 
 **Stack:** React · Bun · Hono · Better Auth · SQLite
@@ -307,35 +318,6 @@ Casos de teste, execuções, defeitos, evidências, dashboards e métricas.
 
 ---
 
-## 📈 GitHub
-
-**Contribuições desde janeiro de 2024** — estatísticas com `count_private=true` (commits em repositórios privados incluídos).
-
-<div align="center">
-
-<img
-  height="165"
-  alt="Estatísticas do GitHub — commits, PRs e contribuições"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=adriellyfxcosta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-/>
-
-<br/>
-
-<img
-  alt="GitHub streak desde 2024"
-  src="https://streak-stats.demolab.com?user=adriellyfxcosta&theme=tokyonight&hide_border=true&starting_year=2024"
-/>
-
-<br/>
-
-<img
-  alt="Gráfico de contribuições desde 2024"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adriellyfxcosta&from=2024-01-01&custom_title=Contribui%C3%A7%C3%B5es%20desde%202024&theme=tokyo-night&hide_border=true&area=true&height=350"
-/>
-
-</div>
-
----
 
 ## 📚 Aprendizado e objetivos
 
@@ -370,6 +352,10 @@ Casos de teste, execuções, defeitos, evidências, dashboards e métricas.
 
 **Obrigada pela visita** 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adriellyfxcosta.adriellyfxcosta&left_color=0d1117&right_color=36BCF7)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://visitor-badge.laobi.icu/badge?page_id=adriellyfxcosta.adriellyfxcosta&left_color=131a22&right_color=21F08A" />
+  <source media="(prefers-color-scheme: light)" srcset="https://visitor-badge.laobi.icu/badge?page_id=adriellyfxcosta.adriellyfxcosta&left_color=f3f5f7&right_color=00C853" />
+  <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=adriellyfxcosta.adriellyfxcosta&left_color=f3f5f7&right_color=00C853" />
+</picture>
 
 </div>
