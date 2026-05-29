@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Adrielly Costa
+# 👩‍💻 Adrielly Félix Costa
 
 ### Quality Assurance Engineer
 
@@ -10,9 +10,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+QA Engineer com **4+ anos** em produtos **SaaS**, **saúde (SUS e privado)** e plataformas de **alto impacto** — da estratégia de testes à automação em CI/CD.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriellyfxcosta/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriellyfxcosta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adriellyfxcosta)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583993133926)
 
 </div>
 
@@ -23,10 +28,10 @@
 - [Sobre mim](#-sobre-mim)
 - [O que eu faço](#-o-que-eu-faço)
 - [Métricas e competências](#-métricas-e-competências)
-- [Stack técnica](#️-stack-técnica)
-- [Projetos em destaque](#-projetos-em-destaque)
+- [Stack técnica](#-stack-técnica)
+- [Portfólio](#-portfólio)
+- [GitHub](#-github)
 - [Aprendizado e objetivos](#-aprendizado-e-objetivos)
-- [Dashboard](#-dashboard)
 - [Conectar](#-conectar)
 
 ---
@@ -46,7 +51,7 @@ Atuo em aplicações **Web**, **Mobile** e **APIs** — da análise de requisito
 | Frente | Atuação |
 |--------|---------|
 | **Estratégia** | Planejamento de testes, pirâmide, risco e cobertura orientada a valor |
-| **Automação** | E2E, API e regressão com Playwright, Cypress e pipelines CI/CD |
+| **Automação** | E2E, API e regressão com Playwright, Cypress, Bruno e pipelines CI/CD |
 | **Exploração** | Charter-based testing, edge cases e validação de regras de negócio |
 | **Performance** | Carga, stress e smoke com K6 e análise de métricas |
 | **Acessibilidade** | WCAG, testes manuais e automatizados, inclusão no design |
@@ -69,13 +74,13 @@ Experiência:
   Testes de acessibilidade: 2+ anos
   Testes de performance: 2+ anos
 
-Domínios atendidos:
-  SaaS: 5+ produtos
-  Saúde / SUS: 5+ sistemas (e-SUS AF, SisAF, GNDT, Farmácia Popular, SaaS)
-  Educação: 1+ sistema
-  Comercial / CRM (SaaS): 1+ plataforma
-  Saúde privada / Finanças médicas: 1+ (ConciliMed)
-  SaaS privados (NDA): 1+ produto
+Domínios:
+  Saúde pública / SUS: e-SUS AF, SisAF, GNDT, Farmácia Popular
+  Saúde privada: Medical Materna, ConciliMed
+  Comercial / CRM: Commission Pal (AthloBR)
+  Educação: SIGE
+  Inovação QA: QA AI Orchestrator, TestMaster
+  Confidencial (NDA): 1+ SaaS
 
 Entregas (estimativas):
   Casos automatizados: 1000+
@@ -96,7 +101,7 @@ Entregas (estimativas):
 |------|:-----:|
 | Test Automation | ██████████ 95% |
 | API Testing | ██████████ 95% |
-| Exploratory Testing | ██████████ 100% |
+| Exploratory Testing | ██████████ 95% |
 | Product Quality | ██████████ 95% |
 | Agile Methodologies | ██████████ 95% |
 | Documentation | ██████████ 95% |
@@ -119,19 +124,17 @@ Entregas (estimativas):
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Bruno-FF6B35?style=flat-square" alt="Bruno"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Accessibility-WCAG-2563EB?style=flat-square" alt="WCAG"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
 </p>
 
 ### Desenvolvimento & Infra
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript,typescript,nodejs,nestjs,postgres,docker,githubactions,gitlab" />
+  <img src="https://skillicons.dev/icons?i=react,vite,typescript,nodejs,nestjs,postgres,mongodb,docker,kubernetes,githubactions,gitlab" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
-  <img src="https://img.shields.io/badge/Hono-FF6B35?style=flat-square" alt="Hono"/>
   <img src="https://img.shields.io/badge/Better_Auth-181717?style=flat-square" alt="Better Auth"/>
 </p>
 
@@ -143,451 +146,202 @@ Entregas (estimativas):
 
 ---
 
-## 🚀 Projetos em destaque
+## 📂 Portfólio
+
+Projetos agrupados por domínio. Detalhes expandíveis — clique no título.
+
+<br/>
+
+### 🤖 Inovação em QA
 
 <details open>
-<summary><b>🤖 QA AI Orchestrator</b> — QA Automation · AI</summary>
+<summary><b>QA AI Orchestrator</b> — automação com IA · Jira / GitLab</summary>
 
 <br/>
 
-**O que é:** MVP backend **headless** que orquestra a geração automática de cenários de QA a partir de issues do **GitLab** ou **Jira**, usando **OpenAI**. Os artefatos (cenários, checklists, subtasks `[QA][*]`, estratégia) são consumidos **diretamente no board** — sem portal web no dia a dia do QA.
+MVP backend **headless** que gera cenários de QA via **OpenAI** a partir de issues; artefatos consumidos no board (subtasks `[QA][*]`, estratégia, Postman, OpenAPI).
 
-**Stack:** NestJS · TypeScript · Prisma · PostgreSQL · OpenAI SDK · Swagger · Docker · Axios
+| | |
+|---|---|
+| **Stack** | NestJS · Prisma · PostgreSQL · OpenAI · Docker |
+| **Papel** | Concepção, arquitetura, prompts e orquestração |
+| **Destaques** | Classificação AUTO/PARCIAL/MANUAL · idempotência de webhooks · fila `FAILED` / reprocess |
 
-**Fluxo:** webhook → leitura da issue → IA → persistência → subtasks por tipo → comentário com matriz de automação → export **Postman** + **OpenAPI 3.0**
+</details>
 
-**Destaques técnicos:**
-- Tipos de teste sugeridos (`api`, `e2e`, `negative`, `regression`) e classificação **AUTOMATIZAVEL** · **PARCIAL** · **MANUAL**
-- Idempotência de webhooks, anti-loop em issues `[QA]` e fila operacional (`FAILED` / reprocess)
-- Integração com Jira Automation e GitLab CI para fluxos mistos
+---
 
-**Papel:** concepção do produto, arquitetura, regras de negócio de QA, prompts e orquestração do pipeline
+### 🏛️ Saúde pública · SUS
 
-<!-- Repo: https://github.com/SEU_USUARIO/qa-ai-orchestrator -->
+<details>
+<summary><b>e-SUS AF</b> — Assistência Farmacêutica</summary>
+
+<br/>
+
+Estoque, movimentação e dispensação para estabelecimentos do **SUS** · SI Bnafar · RBAC multi-instituição.
+
+**Stack:** React 19 · NestJS 11 · PostgreSQL · Redis · K6 · Bruno · Cypress · Playwright · ETE/CTF
+
+**QA:** P0/P1 · smoke pós-deploy · API (~200 rotas) · performance · segurança · resiliência
 
 </details>
 
 <details>
-<summary><b>💼 Commission Pal</b> — Commercial Platform · AthloBR</summary>
+<summary><b>SisAF</b> — Gestão DAF · Ministério da Saúde</summary>
 
 <br/>
 
-**O que é:** monorepo da plataforma comercial **AthloBR** — pipeline de vendas, jornada pós-venda, calendário de implantação, comissões, Customer Success, suporte com SLA e timeline 360° do cliente.
+Gestão integrada da Política de Assistência Farmacêutica (MedSUS, contratos, aquisições, fluxos admin).
 
-**Stack:** React · TypeScript · TanStack Router · Bun · Hono · Better Auth · SQLite · Vite
+**Stack:** React 18 · NestJS 10 · PostgreSQL · Redis · Kubernetes
 
-**Pacotes:** `commission-front` (UI) · `commission-back` (API comercial) · `commission-mobile` (futuro)
-
-**Módulo principal:** `/comercial` — papéis **Gestor**, **Vendedor**, **Implantador** e **CS** com matriz de permissões e escopo de dados por perfil.
-
-**QA:** validação de regras de negócio ponta a ponta (vendas → fechamento → jornada → ativação → comissões), smoke de homologação (health, CORS, permissões API), cenários mock vs API real e documentação de contrato comercial.
-
-<!-- Repo: monorepo interno / confidencial -->
+**QA:** MBT · caixa branca · exploratório por risco · Jest · roadmap E2E
 
 </details>
 
 <details>
-<summary><b>🏥 Medical Materna</b> — Healthcare SaaS</summary>
+<summary><b>GNDT</b> — Normas e Diretrizes Terapêuticas</summary>
 
 <br/>
 
-**Stack:** React · TypeScript · Vite · NestJS · PostgreSQL · Playwright · Cypress · K6
+Monorepo (web + API interna + API pública com API Key) no contexto e-SUS-AF.
 
-**Produto:** cartão gestacional digital, prontuário eletrônico, consultas, exames, integrações laboratoriais, trilha de auditoria e RBAC.
+**Stack:** React 19 · NestJS 11 · MongoDB · Redis · Gov.br · Playwright (API HTTP)
 
-**QA:** estratégia de testes, revisão de critérios de aceite, testes exploratórios, automação e planejamento de regressão.
+**QA:** Diretrizes clínicas · RBAC · contrato HTTP · Vitest · Jest
 
 </details>
 
 <details>
-<summary><b>💊 e-SUS AF</b> — Assistência Farmacêutica · SUS</summary>
+<summary><b>Farmácia Popular</b> — Programa federal de medicamentos</summary>
 
 <br/>
 
-**O que é:** *e-SUS Assistência Farmacêutica* — gestão de **estoque**, **movimentação** e **dispensação de medicamentos** para estabelecimentos de saúde do **SUS**, com RBAC, multi-instituição e integrações federais (**SI Bnafar**, CNS).
+Monorepo com **PostgreSQL** (auth/domínio) + **Oracle** (legado) · Gov.br · 2FA.
 
-**Stack:** React 19 · TypeScript · Vite · MUI · NestJS 11 · TypeORM · PostgreSQL · Redis · OpenTelemetry · Docker · Kubernetes
+**Stack:** React 19 · NestJS 11 · Vite 7 · shadcn/ui · OpenTelemetry
 
-**Arquitetura:** `client/` · `server/` (~200+ rotas) · `sibnafar/` (producer/consumer) · `k6-tests/` · `bruno/` · `automation/` · `automacao-EsusAf/`
+**QA:** Jest · Vitest · Supertest · dual-database · smoke auth/farmácia
 
-**Pirâmide de testes:** Jest E2E API (Supertest) · Bruno (~224 requests) · k6 (carga/smoke) · Cypress 14 · Playwright · ETE/CTF em `docs/cenarios-teste/`
+</details>
 
-**Fluxos críticos validados:** autenticação + context token · dispensação · entrada/saída · estoque · dashboard/relatórios · transmissão SI Bnafar
+---
 
-**QA:** estratégia por risco (P0/P1), smoke pós-deploy, rastreabilidade ETE/CTF, suítes de segurança, resiliência e performance documentada
+### 🏥 Saúde privada
+
+<details>
+<summary><b>Medical Materna</b> — Healthcare SaaS</summary>
+
+<br/>
+
+Cartão gestacional, prontuário, consultas, exames, integrações laboratoriais, auditoria e RBAC.
+
+**Stack:** React · NestJS · PostgreSQL · Playwright · Cypress · K6
 
 </details>
 
 <details>
-<summary><b>🏛️ SisAF</b> — Gestão DAF · Ministério da Saúde</summary>
+<summary><b>ConciliMed</b> — Conciliação financeira médica</summary>
 
 <br/>
 
-**O que é:** *Sistema Integrado de Gestão do DAF* — gestão integrada da **Política de Assistência Farmacêutica** (contratos, aquisições, MedSUS, fluxos administrativos, logística, fornecedores) com rastreabilidade e apoio operacional ao departamento.
+Contrato × faturado × repassado · glosas **TISS** · Central Financeira · conciliação bancária.
 
-**Stack:** React 18 · TypeScript · CRA · NestJS 10 · TypeORM · PostgreSQL · Redis · Swagger · Docker · Kubernetes
+**Stack:** React 19 · TanStack Start · Vite 7 · Cloudflare Workers
 
-**Contextos de uso:** **DAF** (gestão interna) · **SES** (interface estadual) · **Fornecedor** (portal) — roteamento por tenant/perfil e JWT + guards.
+**QA:** Estratégia Vitest/Playwright · motor `engine.ts` · parsers CSV/OFX/XLSX · automação em evolução
 
-**Testes:** Jest unitário backend (MedSUS, fluxos admin, contratos, auth) · RTL no frontend · E2E API smoke · estrutura k6 (carga)
+</details>
 
-**QA:** análise de caixa branca, model-based testing, exploratório por risco, regressão semântica e relatórios (performance, segurança, a11y, dados) — evolução planejada de E2E API/UI (Playwright)
+---
+
+### 💼 Comercial
+
+<details>
+<summary><b>Commission Pal</b> — AthloBR · CRM e pós-venda</summary>
+
+<br/>
+
+Pipeline, jornada, implantação, comissões, CS, suporte SLA e timeline 360°.
+
+**Stack:** React · Bun · Hono · Better Auth · SQLite
+
+**QA:** Regras ponta a ponta · smoke homolog (CORS, permissões) · mock vs API real
 
 </details>
 
 <details>
-<summary><b>📋 GNDT</b> — Normas e Diretrizes Terapêuticas</summary>
+<summary><b>Projeto SaaS</b> — confidencial</summary>
 
 <br/>
 
-**O que é:** monorepo **GNDT** (*Gestão de Normas e Diretrizes Terapêuticas*) — contexto **e-SUS-AF** / Assistência Farmacêutica, com interface administrativa e APIs para diretrizes clínicas, CIDs, CATMAT e consumo externo controlado.
+**Stack:** React · NestJS · PostgreSQL · Playwright · Cypress · K6
 
-**Pacotes:** `frontend/` (gndc-web) · `backend/` (gndc-api) · `public-server/` (gndc-public-api) · `automation-backend/` (testes HTTP)
+**QA:** E2E · API · regressão · performance
 
-**Stack:** React 19 · Vite · TanStack Query · Zustand · RHF + Zod · NestJS 11 · MongoDB · Redis · JWT · Gov.br · Swagger · Docker · GitLab CI
+</details>
 
-**Pirâmide de testes:** Jest unitários (API interna e pública) · Vitest + RTL (componentes) · E2E Nest (smoke) · **Playwright** para automação de API (auth, users, roles, health)
+---
 
-**QA:** wizard de diretrizes, RBAC, API Key na API pública, contrato HTTP, pré-commit (ESLint/Prettier) e priorização de cobertura em módulos críticos
+### 📚 Outros
+
+<details>
+<summary><b>SIGE</b> — Gestão educacional</summary>
+
+<br/>
+
+Acadêmico, financeiro, portais aluno/professor e administração escolar.
 
 </details>
 
 <details>
-<summary><b>💊 Farmácia Popular</b> — Política de Medicamentos · SUS</summary>
+<summary><b>TestMaster</b> — Plataforma de gestão de qualidade</summary>
 
 <br/>
 
-**O que é:** monorepo full-stack do programa **Farmácia Popular** — gestão e operação de medicamentos subsidiados, com autenticação federada, organizações e integração a base legada.
+Casos de teste, execuções, defeitos, evidências, dashboards e métricas.
 
-**Stack:** React 19 · Vite 7 · TanStack Query · shadcn/ui · NestJS 11 · TypeORM · **PostgreSQL 16** · **Oracle XE 21** · Better Auth · Gov.br · 2FA · OpenTelemetry · Docker
-
-**Arquitetura:** `api/` (pnpm) · `frontend/` (npm) — dual-database (Postgres domínio/auth · Oracle negócio legado)
-
-**Pirâmide de testes:** Jest unitário (adapters auth, farmácia, auditoria) · Supertest E2E · Vitest + Testing Library (páginas e formulários)
-
-**QA:** fluxos críticos de auth e farmácia, mocks MSW/nock (OAuth), gate lint + testes em CI, roadmap E2E browser (Playwright/Cypress)
+**QA:** Governança de qualidade · processos · automação
 
 </details>
 
-<details>
-<summary><b>🩺 ConciliMed</b> — Conciliação Financeira Médica</summary>
+---
+
+## 📈 GitHub
+
+**Contribuições desde janeiro de 2024** — estatísticas com `count_private=true` (commits em repositórios privados incluídos).
+
+<div align="center">
+
+<img
+  height="165"
+  alt="Estatísticas do GitHub — commits, PRs e contribuições"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=adriellyfxcosta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+/>
 
 <br/>
 
-**O que é:** plataforma de **conciliação financeira médica** — contrato × faturado × repassado, glosas **TISS**, divergências, contestações, repasses a profissionais e conciliação bancária (Central Financeira).
-
-**Stack:** React 19 · TypeScript · Vite 7 · TanStack Start/Router · Tailwind 4 · shadcn/ui · Zod · RHF · Cloudflare Workers
-
-**Arquitetura:** SPA com estado em memória (`domain/store`, `engine.ts`); parsers CSV/OFX/XLSX; faturamento TISS (XML mock); deploy alvo Cloudflare
-
-**QA:** estratégia de pirâmide (Vitest unitário no motor + parsers → Playwright E2E); mapa P0–P3, roteiros smoke/regressão financeira e atendimento, testes exploratórios — **automação em evolução** (lint/build hoje; suíte Vitest/Playwright como north star)
-
-</details>
-
-<details>
-<summary><b>🔒 Projeto SaaS</b> — confidencial</summary>
+<img
+  alt="GitHub streak desde 2024"
+  src="https://streak-stats.demolab.com?user=adriellyfxcosta&theme=tokyonight&hide_border=true&starting_year=2024"
+/>
 
 <br/>
 
-**Stack:** React · TypeScript · Node.js · PostgreSQL · Playwright · K6 · Docker
+<img
+  alt="Gráfico de contribuições desde 2024"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adriellyfxcosta&from=2024-01-01&custom_title=Contribui%C3%A7%C3%B5es%20desde%202024&theme=tokyo-night&hide_border=true&area=true&height=350"
+/>
 
-**QA:** automação E2E, testes de performance e validação em ambientes de staging.
-
-</details>
-
-<details>
-<summary><b>🎓 SIGE</b> — Educational Management System</summary>
-
-<br/>
-
-**Módulos:** gestão acadêmica, financeiro, portal do aluno, portal do professor e administração escolar.
-
-**QA:** planejamento, validação funcional, aceite e testes de integração.
-
-</details>
-
-<details>
-<summary><b>🧪 TestMaster</b> — Quality Management Platform</summary>
-
-<br/>
-
-**Módulos:** casos de teste, execuções, defeitos, evidências, dashboards e métricas de qualidade.
-
-**QA:** definição de produto, governança de qualidade, automação e desenho de processos de teste.
-
-</details>
+</div>
 
 ---
 
 ## 📚 Aprendizado e objetivos
 
-**Estudando agora**
+**Estudando:** `Advanced Playwright` · `AI applied to QA` · `TestOps` · `Observability` · `Performance Engineering` · `Kubernetes` · `Contract Testing` · `Shift Left`
 
-`Advanced Playwright` · `AI applied to QA` · `TestOps` · `Observability` · `Performance Engineering` · `Kubernetes` · `Contract Testing` · `Shift Left`
-
-**Objetivo profissional**
-
-Evoluir como **Quality Engineer** em produtos de alto impacto, promovendo cultura de qualidade com **automação**, **observabilidade** e **melhoria contínua**.
-
----
-
-## 📈 Dashboard
-
-Visão consolidada dos **produtos em que atuo como QA** — domínio, stack de qualidade e entregas principais.
-
-<div align="center">
-
-![Produtos](https://img.shields.io/badge/Produtos-11+-36BCF7?style=for-the-badge)
-![ConciliMed](https://img.shields.io/badge/ConciliMed-Finanças_Médicas-EC4899?style=for-the-badge)
-![SUS](https://img.shields.io/badge/Saúde_Pública_·_SUS-5+_projetos-059669?style=for-the-badge)
-![Comercial](https://img.shields.io/badge/Commission_Pal-CRM_·_Comissões-8B5CF6?style=for-the-badge)
-![IA_QA](https://img.shields.io/badge/QA_AI_Orchestrator-OpenAI_·_Jira_·_GitLab-A855F7?style=for-the-badge)
-![Automação](https://img.shields.io/badge/Playwright_·_Cypress_·_K6-QA-10B981?style=for-the-badge)
-![Ciclos](https://img.shields.io/badge/Regressões-500+-F59E0B?style=for-the-badge)
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td colspan="2" valign="top">
-
-### 🤖 QA AI Orchestrator
-
-![QA Automation](https://img.shields.io/badge/Domínio-QA_Automation_·_AI-A855F7?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-NestJS_·_Prisma_·_OpenAI-64748B?style=flat-square)
-![Integrações](https://img.shields.io/badge/Jira_·_GitLab-Webhooks-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer · Product · Arquitetura |
-| **Escopo** | Backend headless · API · Webhooks |
-| **IA** | OpenAI — cenários estruturados e estratégia de tipos |
-| **Saídas** | Subtasks `[QA][*]` · Postman · OpenAPI · comentários no card |
-
-**Pipeline:** issue criada → cenários API/E2E/negativos/regressão → matriz de automação → export de collections
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 💼 Commission Pal (AthloBR)
-
-![Commercial SaaS](https://img.shields.io/badge/Domínio-CRM_·_Pós--venda_·_CS-0EA5E9?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_Bun_·_Hono_·_SQLite-64748B?style=flat-square)
-![Monorepo](https://img.shields.io/badge/Monorepo-front_·_back_·_mobile-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | Web · API comercial · RBAC por papel |
-| **Automação** | Smoke homolog · Playwright (E2E) |
-| **Foco QA** | Regras de negócio · Permissões · Fluxo lead → ativação |
-
-**Fluxo validado:** pipeline CRM → fechamento → jornada → implantação → comissões · CS · suporte/SLA
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 e-SUS AF
-
-![SUS](https://img.shields.io/badge/Domínio-Estabelecimentos_·_SUS-059669?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_NestJS_·_PostgreSQL-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | Web · API · SI Bnafar |
-| **Automação** | Bruno · k6 · Cypress · Playwright |
-| **Foco QA** | Dispensação · estoque · RBAC |
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ SisAF (DAF · MS)
-
-![DAF](https://img.shields.io/badge/Domínio-Ministério_da_Saúde_·_DAF-0369A1?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_NestJS_·_TypeORM-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | DAF · SES · Fornecedor |
-| **Automação** | Jest · RTL · E2E smoke |
-| **Foco QA** | MedSUS · fluxos admin · MBT |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 GNDT
-
-![GNDT](https://img.shields.io/badge/Domínio-Diretrizes_Terapêuticas-0D9488?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_NestJS_·_MongoDB-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | SPA · API · API pública |
-| **Automação** | Jest · Vitest · Playwright API |
-| **Foco QA** | Diretrizes · RBAC · contrato |
-
-</td>
-<td width="50%" valign="top">
-
-### 💊 Farmácia Popular
-
-![SUS](https://img.shields.io/badge/Domínio-Farmácia_Popular_·_SUS-059669?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Postgres_·_Oracle_·_NestJS-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | SPA · API dual-DB |
-| **Automação** | Jest · Vitest · Supertest |
-| **Foco QA** | Auth · farmácia · auditoria |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Medical Materna
-
-![Healthcare SaaS](https://img.shields.io/badge/Saúde-Healthcare_SaaS-EC4899?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_NestJS_·_PostgreSQL-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | Web · API · Integrações |
-| **Automação** | Playwright · Cypress · K6 |
-| **Foco QA** | Estratégia · AC · Exploratório · Regressão |
-
-**Módulos validados:** cartão gestacional · prontuário · consultas · exames · laboratório · auditoria · RBAC
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 ConciliMed
-
-![Finanças médicas](https://img.shields.io/badge/Domínio-Conciliação_·_TISS-EC4899?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_TanStack_·_Vite-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer · Estratégia |
-| **Escopo** | SPA · motor de regras · Central Financeira |
-| **Automação** | Em evolução (Vitest · Playwright) |
-| **Foco QA** | Engine · parsers · glosas · match híbrido |
-
-**Prioridade P0:** `engine.ts` · parsers bancários · smoke conciliação → divergências
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 Projeto SaaS (confidencial)
-
-![Privado](https://img.shields.io/badge/Visibilidade-Confidencial-64748B?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_NestJS_·_PostgreSQL-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | Web · API |
-| **Automação** | Playwright · Cypress · K6 |
-| **Foco QA** | E2E · Regressão · Performance |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 SIGE
-
-![Education](https://img.shields.io/badge/Educação-Management_System-0EA5E9?style=flat-square)
-![Portais](https://img.shields.io/badge/Portais-Aluno_·_Professor-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer |
-| **Escopo** | Web · Integrações |
-| **Automação** | Planejamento de testes |
-| **Foco QA** | Funcional · Aceite · Integração |
-
-**Módulos validados:** acadêmico · financeiro · portal aluno · portal professor · administração
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🧪 TestMaster
-
-![QA Platform](https://img.shields.io/badge/Qualidade-QA_Management_Platform-22C55E?style=flat-square)
-![Governança](https://img.shields.io/badge/Governança-Métricas_·_Evidências-64748B?style=flat-square)
-
-| Métrica | Detalhe |
-|---------|---------|
-| **Papel** | QA Engineer · Product Quality |
-| **Escopo** | Plataforma de gestão de testes |
-| **Automação** | Planejamento · Processos |
-| **Foco QA** | Definição de produto · Governança · TestOps |
-
-**Módulos validados:** casos de teste · execuções · defeitos · evidências · dashboards · métricas de qualidade
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>📊 Resumo de impacto em QA (todos os projetos)</b></summary>
-
-<br/>
-
-```yaml
-Cobertura de testes:
-  Casos automatizados: 1000+
-  Cenários documentados: 3000+
-  Defeitos reportados: 2000+
-  Execuções de performance: 100+
-  Ciclos de regressão: 500+
-
-Tipos de teste aplicados:
-  - E2E (Playwright / Cypress)
-  - API (Postman / automação)
-  - Performance (K6)
-  - Acessibilidade (WCAG)
-  - Exploratório e charter-based
-  - Regressão e smoke em CI/CD
-  - Geração de cenários com IA (QA AI Orchestrator)
-  - CRM comercial, comissões e jornada pós-venda (Commission Pal)
-  - Assistência Farmacêutica SUS — API, UI, carga e ETE/CTF (e-SUS AF)
-  - Gestão DAF/MS — unitários, MBT, exploratório e roadmap E2E (SisAF)
-  - Normas e diretrizes terapêuticas — monorepo, Vitest e Playwright API (GNDT)
-  - Farmácia Popular — dual-database (Postgres/Oracle), Gov.br e pirâmide Jest/Vitest
-  - ConciliMed — estratégia de testes, motor de conciliação e roadmap Vitest/Playwright
-
-Papéis recorrentes:
-  - Estratégia e planejamento de testes
-  - Revisão de critérios de aceite
-  - Automação e manutenção de suites
-  - Validação de regras de negócio
-  - Consultoria e mentoria em QA
-```
-
-</details>
-
-<br/>
+**Objetivo:** Evoluir como **Quality Engineer** em produtos de alto impacto, com **automação**, **observabilidade** e **melhoria contínua**.
 
 ---
 
@@ -595,23 +349,20 @@ Papéis recorrentes:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/adriellyfxcosta/" target="_blank" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:adriellyfxcosta@gmail.com" title="E-mail">
   <img src="https://skillicons.dev/icons?i=gmail" alt="E-mail"/>
 </a>
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a href="https://github.com/adriellyfxcosta" target="_blank" title="GitHub">
   <img src="https://skillicons.dev/icons?i=github,dark" alt="GitHub"/>
 </a>
+<a href="https://wa.me/5583993133926" target="_blank" title="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 Philosophy
+<br/><br/>
 
 *Quality is not a phase. Quality is an engineering discipline.*
 
@@ -619,10 +370,6 @@ Papéis recorrentes:
 
 **Obrigada pela visita** 👋
 
-QA · Automação · Performance · Acessibilidade · Qualidade de Produto
-
-<br/>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO&left_color=0d1117&right_color=36BCF7)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adriellyfxcosta.adriellyfxcosta&left_color=0d1117&right_color=36BCF7)
 
 </div>
